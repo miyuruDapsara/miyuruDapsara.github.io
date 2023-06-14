@@ -1,0 +1,40 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(160,207,227,1.00) 9.95%,rgba(143,251,150,1.00) 49.95%,rgba(247,194,108,1.00) 87.98%);
+    background-image: -moz-linear-gradient(270deg,rgba(160,207,227,1.00) 9.95%,rgba(143,251,150,1.00) 49.95%,rgba(247,194,108,1.00) 87.98%);
+    background-image: -o-linear-gradient(270deg,rgba(160,207,227,1.00) 9.95%,rgba(143,251,150,1.00) 49.95%,rgba(247,194,108,1.00) 87.98%);
+    background-image: linear-gradient(180deg,rgba(160,207,227,1.00) 9.95%,rgba(143,251,150,1.00) 49.95%,rgba(247,194,108,1.00) 87.98%);
+
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(184,92,93,1.00) 0%,rgba(255,222,114,1.00) 100%,rgba(255,206,41,1.00) 100%,rgba(255,255,255,1.00) 100%,rgba(132,222,156,1.00) 100%,rgba(255,189,190,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(184,92,93,1.00) 0%,rgba(255,222,114,1.00) 100%,rgba(255,206,41,1.00) 100%,rgba(255,255,255,1.00) 100%,rgba(132,222,156,1.00) 100%,rgba(255,189,190,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(184,92,93,1.00) 0%,rgba(255,222,114,1.00) 100%,rgba(255,206,41,1.00) 100%,rgba(255,255,255,1.00) 100%,rgba(132,222,156,1.00) 100%,rgba(255,189,190,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(184,92,93,1.00) 0%,rgba(255,222,114,1.00) 100%,rgba(255,206,41,1.00) 100%,rgba(255,255,255,1.00) 100%,rgba(132,222,156,1.00) 100%,rgba(255,189,190,1.00) 100%);
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+
+}
+#accordion1 .card #headingThree1 {
+    background-image: -webkit-linear-gradient(270deg,rgba(150,164,169,1.00) 3.11%,rgba(150,164,169,1.00) 42.38%,rgba(150,164,169,1.00) 100%,rgba(167,198,160,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(150,164,169,1.00) 3.11%,rgba(150,164,169,1.00) 42.38%,rgba(150,164,169,1.00) 100%,rgba(167,198,160,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(150,164,169,1.00) 3.11%,rgba(150,164,169,1.00) 42.38%,rgba(150,164,169,1.00) 100%,rgba(167,198,160,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(150,164,169,1.00) 3.11%,rgba(150,164,169,1.00) 42.38%,rgba(150,164,169,1.00) 100%,rgba(167,198,160,1.00) 100%);
+
+}
+#accordion1 .card #headingOne1 {
+    background-image: -webkit-linear-gradient(270deg,rgba(171,180,200,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(171,180,200,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(171,180,200,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(171,180,200,1.00) 100%,rgba(255,0,0,1.00) 100%);
+}
+.card #collapseOne1 .card-body {
+    background-image: -webkit-linear-gradient(270deg,rgba(146,151,170,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(146,151,170,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(146,151,170,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(146,151,170,1.00) 100%,rgba(255,0,0,1.00) 100%);
+}
+h1 .text-capitalize.text-justify center {
+    background-color: #F3F3F3;
+    color: #272222;
+}
